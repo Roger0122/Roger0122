@@ -17,6 +17,3 @@ I enjoy building maintainable and user-friendly interfaces using **Tailwind CSS*
 - 後台管理系統
 
 📫 歡迎交流與合作！Let's build something cool together!
-
-小作品:
-https://joitogether.com/home
